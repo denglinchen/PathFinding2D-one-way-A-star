@@ -1,0 +1,4 @@
+﻿  PathFindingDll.cpp
+E:\U3D_NOTE\2020畅游游戏技术竞赛客户端赛题2D网格寻路（单向Astar）\PathFinding\PathFinding\PathFinding.h(382,21): warning C4018: “<”: 有符号/无符号不匹配
+E:\U3D_NOTE\2020畅游游戏技术竞赛客户端赛题2D网格寻路（单向Astar）\PathFinding\PathFinding\PathFindingDll.cpp(47,19): warning C4305: “=”: 从“double”到“float”截断
+  PathFinding.vcxproj -> E:\U3D_NOTE\2020畅游游戏技术竞赛客户端赛题2D网格寻路（单向Astar）\PathFinding\Debug\PathFinding.dll
