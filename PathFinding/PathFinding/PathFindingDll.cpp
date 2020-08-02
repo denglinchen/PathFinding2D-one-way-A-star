@@ -5,7 +5,7 @@
 // “相邻” 指两个格子存在公共边或公共顶点
 
 
-//初始化NodeFactory中用于记忆保存的静态变量
+//初始化PathBuilder中用于记忆保存的静态变量
 	//存储记忆的容器
 unordered_map<int, unordered_map<int, unordered_map<int, unordered_map<int, vector<Position>>>>> PathBuilder::routing_memory;
 	//记忆的数目
